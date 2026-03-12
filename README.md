@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Dev Joshi 👋
 
 <!--
 **devjoshi-289/devjoshi-289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 B.Tech Student at Parul University
+Interested in Machine Learning, AI, and Data Systems
+
+I enjoy building and exploring intelligent systems and learning how data can solve real-world problems.
+
+📚 Currently preparing for GATE 2027 while continuing to learn and build projects in machine learning.
+
+🤝 I’m also open to connecting with people who enjoy learning new technologies, discussing ideas, and collaborating on projects.
