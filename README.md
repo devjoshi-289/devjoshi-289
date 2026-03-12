@@ -19,6 +19,6 @@ Interested in Machine Learning, AI, and Data Systems
 
 I enjoy building and exploring intelligent systems and learning how data can solve real-world problems.
 
-📚 Currently preparing for GATE 2027 while continuing to learn and build projects in machine learning.
+Currently preparing for GATE 2027 while continuing to learn and build projects in machine learning.
 
-🤝 I’m also open to connecting with people who enjoy learning new technologies, discussing ideas, and collaborating on projects.
+I’m also open to connecting with people who enjoy learning new technologies, discussing ideas, and collaborating on projects.
